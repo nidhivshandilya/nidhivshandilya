@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## product concept ideas
+## kids safe chatbot, summaries and tips to parents
+## AI pet toy (e.g. talking tom with better EQ. summaries and tips to parents)
 <!--
 **nidhivshandilya/nidhivshandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
