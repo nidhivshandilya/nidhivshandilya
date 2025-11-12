@@ -4,6 +4,7 @@
 ## kids safe chatbot, summaries and tips to parents
 ## AI pet toy (e.g. talking tom with better EQ. summaries and tips to parents)
 ## AI drone that self-charges, and monitors periphery every X minutes. sends summaries real time and eod.
+## on demand coloring pages. say out loud what you want to color and print a page out.
 <!--
 **nidhivshandilya/nidhivshandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
