@@ -6,6 +6,7 @@
 ## AI drone that self-charges, and monitors periphery every X minutes. sends summaries real time and eod.
 ## on demand coloring pages. say out loud what you want to color and print a page out.
 ## pictonary but you speak/write/prompt and let the AI draw. Other person guesses. Use FaraB 7B model (SLM).
+## a webapp for students that lets them 'see' what the day in a life of a profession looks like with their own face. output is a 2 minute movie showing all the good, the bad and the ugly in a profession. It helps students really get a feel for a profession before they study for years only to discover it's not for them or give up too early due to temporary hurdles.
 <!--
 **nidhivshandilya/nidhivshandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
